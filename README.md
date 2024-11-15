@@ -1,0 +1,1 @@
+## Windows-Manager - Менеджер образов Windows и их активации [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e3f1740e81ad483cae07a8b50b8f9d96)](https://app.codacy.com/gh/lap-does-things/Windows-Manager/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
